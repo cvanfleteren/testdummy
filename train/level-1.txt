@@ -1,1 +1,2 @@
 level 1 started
+level 1 kept going while level 2 was in flight
