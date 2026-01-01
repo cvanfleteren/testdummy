@@ -1,0 +1,12 @@
+{
+  "customers": [
+    { "id": 1, "email": "ada@example.com", "name": "Ada", "tags": ["vip", "early"] },
+    { "id": 2, "email": "grace@example.com", "name": "Grace", "tags": [] },
+    { "id": 3, "email": "linus@example.com", "name": "Linus", "tags": ["beta"] }
+  ],
+  "orders": [
+    { "id": 10, "customerId": 1, "totalCents": 4999, "status": "shipped" },
+    { "id": 11, "customerId": 3, "totalCents": 1250, "status": "pending" }
+  ],
+  "meta": { "version": 1, "generated": true, "nothing": null }
+}
