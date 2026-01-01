@@ -1,0 +1,14 @@
+app:
+  name: testdummy
+  port: 8080
+  features:
+    - search
+    - export
+database:
+  url: postgres://localhost:5432/testdummy
+  pool:
+    min: 2
+    max: 10
+logging:
+  level: info
+  format: json
