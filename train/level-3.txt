@@ -1,1 +1,2 @@
 level 3 started
+level 3 kept going while level 4 was in flight
