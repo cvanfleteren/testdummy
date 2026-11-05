@@ -27,3 +27,5 @@ export { featureA } from "./feature-a";
 export { featureB } from "./feature-b";
 
 export { featureC } from "./feature-c";
+
+export { featureD } from "./feature-d";
