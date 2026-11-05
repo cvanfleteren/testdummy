@@ -23,3 +23,5 @@ export function totalFor(customer: Customer, orders: readonly Order[]): number {
 export const greet = (customer: Customer): string => `Hello, ${customer.name}!`;
 
 export { featureA } from "./feature-a";
+
+export { featureB } from "./feature-b";
